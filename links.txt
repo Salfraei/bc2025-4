@@ -1,5 +1,0 @@
-http://localhost:3000/flights
-http://localhost:3000/flights/delayed
-http://localhost:3000/flights/on-time
-http://localhost:3000/flights/long
-http://localhost:3000/flights/by-date?date=2006-01-01
